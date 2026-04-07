@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif" width="700">
+  <img src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif" width="1000">
 </p>
 
 <h1 align="center">👩‍💻 Olá, eu sou Ariane Medeiros</h1>
@@ -8,40 +8,42 @@
   💻 Desenvolvedora em formação | 🚀 Apaixonada por tecnologia | 🌙 Sempre aprendendo
 </p>
 
----
+<br>
 
-<table>
-  
-<tr>
-  
-<td>
-  
-## 🌟 Sobre mim
+<h1 align="left">🧠 Sobre mim</h1>
 
-💡 Atualmente focada em desenvolvimento web e evolução constante na área de tecnologia.
-📚 Estudando programação e construindo projetos para fortalecer minhas habilidades.
-🎯 Buscando crescer como desenvolvedora e criar soluções úteis.
+<div>
+   <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="300"align="right">
 
-</td>
+<br>
+Sou Ariane Medeiros, desenvolvedora em formação apaixonada por tecnologia e aprendizado contínuo.
 
-<td>
-  <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="200">
-</td>
+Atualmente estou focada em desenvolvimento web, estudando e criando projetos com HTML, CSS e JavaScript. Busco sempre evoluir minhas habilidades e transformar ideias em soluções simples, funcionais e bem estruturadas.
 
-</tr>
+Tenho interesse em crescer na área de tecnologia, aprender novas ferramentas e enfrentar desafios que me permitam evoluir constantemente como desenvolvedora.
 
-</table>
----
+🚀 Em constante evolução
+💡 Focada em aprender e construir
+🌙 Determinada e curiosa
 
-## 🛠️ Linguagens & Ferramentas
+
+</div>
+
+<br>
+
+<h1 align="center">🛠️ Linguagens & Ferramentas</h1>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 </p>
 
----
+<br>
 
-## 🌐 Contato
+<h1 align="center">🌐 Contato</h1>
+
+<br>
 
 <p align="center">
   
@@ -62,10 +64,10 @@
       </a>
 </p>
 
----
+<br>
 
   <p align="center">
-  <img src="https://i.pinimg.com/originals/8d/7c/f2/8d7cf28921e906fdb2f8f093224baabb.gif" width="700">
+  <img src="https://i.pinimg.com/1200x/6b/b2/8d/6bb28d8247417c36577d3c678e98ced5.jpg" width="1000">
 </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
 </p>
