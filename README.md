@@ -5,36 +5,38 @@
 <h1 align="center">👩‍💻 Olá, eu sou Ariane Medeiros</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação | 🚀 Apaixonada por tecnologia
+  💻 Desenvolvedora em formação | 🚀 Apaixonada por tecnologia | 🌙 Sempre aprendendo
 </p>
 
 ---
 
+<table>
+  
+<tr>
+  
+<td>
+  
 ## 🌟 Sobre mim
 
 💡 Atualmente focada em desenvolvimento web e evolução constante na área de tecnologia.
 📚 Estudando programação e construindo projetos para fortalecer minhas habilidades.
 🎯 Buscando crescer como desenvolvedora e criar soluções úteis.
 
+</td>
+
+<td>
+  <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="200">
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 🛠️ Linguagens & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
-  
 </p>
 
 ---
@@ -55,19 +57,12 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
       </a>
       
-  <a href="https://linkedin.com/in/SEULINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ariane-medeiros-368875355/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
       </a>
 </p>
 
 ---
-
-## ☕ Support
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Support-Me-0D1117?style=for-the-badge">
-</p>
-
 
   <p align="center">
   <img src="https://i.pinimg.com/originals/8d/7c/f2/8d7cf28921e906fdb2f8f093224baabb.gif" width="700">
