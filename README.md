@@ -1,16 +1,76 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif" width="700">
+</p>
 
-<!--
-**Ariane2820/Ariane2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👩‍💻 Olá, eu sou Ariane Medeiros</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desenvolvedora em formação | 🚀 Apaixonada por tecnologia
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Sobre mim
+
+💡 Atualmente focada em desenvolvimento web e evolução constante na área de tecnologia.
+📚 Estudando programação e construindo projetos para fortalecer minhas habilidades.
+🎯 Buscando crescer como desenvolvedora e criar soluções úteis.
+
+---
+
+## 🛠️ Linguagens & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
+  
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  
+   <a href="https://instagram.com/lov_arih">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+      </a>
+      
+  <a href="https://discord.com/users/1490976120655319160">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+      </a>
+      
+  <a href="mailto:ariane.medeiros2026@email.com">    
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      </a>
+      
+  <a href="https://linkedin.com/in/SEULINK">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      </a>
+</p>
+
+---
+
+## ☕ Support
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Support-Me-0D1117?style=for-the-badge">
+</p>
+
+
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/8d/7c/f2/8d7cf28921e906fdb2f8f093224baabb.gif" width="700">
+</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</p>
